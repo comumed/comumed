@@ -58,34 +58,25 @@ body {
 }
 
 .slide:first-child {
-  background: url("https://source.unsplash.com/vTL_qy03D1I/1600x900") no-repeat
+  background: url("1.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("https://source.unsplash.com/n19qtMX3nNY/1600x900") no-repeat
+  background: url("2.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("https://source.unsplash.com/_7LbC5J-jw4/1600x900") no-repeat
+  background: url("3.jpg") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(4) {
-  background: url("https://source.unsplash.com/_KaMTEmJnxY/1600x900") no-repeat
+  background: url("4.png") no-repeat
     center top/cover;
 }
 
-.slide:nth-child(5) {
-  background: url("https://source.unsplash.com/3mGnYRUNIck/1600x900") no-repeat
-    center top/cover;
-}
-
-.slide:nth-child(6) {
-  background: url("https://source.unsplash.com/cxnkcRnwS7M/1600x900") no-repeat
-    center center/cover;
-}
 
 .buttons button#prev {
   position: absolute;
